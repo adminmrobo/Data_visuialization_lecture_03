@@ -3,7 +3,7 @@
 <a id="korean"></a>
 ## 생성형 AI와 함께 배우는 데이터 시각화 — 3주차
 
-박사, 조수, 초파리 연구원, money-robo 네 캐릭터의 대화로 진행되는 인터랙티브 강의 페이지입니다. 이 저장소에는 3주차 전체가 담겨 있습니다 — 생성형 AI 데이터 전처리, 5종 더러운 데이터, 데이터 씻기 실습, Matplotlib와 Seaborn, 고급 그래프 실습, HTML 대시보드와 마무리.
+박사, 조수, 초파리 연구원, 주판봇 네 캐릭터의 대화로 진행되는 인터랙티브 강의 페이지입니다. 이 저장소에는 3주차 전체가 담겨 있습니다 — 생성형 AI 데이터 전처리, 5종 더러운 데이터, 데이터 씻기 실습, Matplotlib와 Seaborn, 고급 그래프 실습, HTML 대시보드와 마무리.
 
 바로 보기: https://adminmrobo.github.io/dv-week3/
 
@@ -67,7 +67,7 @@
 <a id="english"></a>
 ## Data Visualization with Generative AI — Week 3
 
-An interactive lecture site where four characters — Professor, Assistant, Fruit Fly Researcher, money-robo — teach through dialogue. This repository holds all of Week 3: Generative AI Data Preprocessing, Five Kinds of Dirty Data, Data Cleaning Lab, Matplotlib and Seaborn, Advanced Charts Lab, HTML Dashboard and Wrap-up.
+An interactive lecture site where four characters — Professor, Assistant, Fruit Fly Researcher, AbaBot — teach through dialogue. This repository holds all of Week 3: Generative AI Data Preprocessing, Five Kinds of Dirty Data, Data Cleaning Lab, Matplotlib and Seaborn, Advanced Charts Lab, HTML Dashboard and Wrap-up.
 
 Read online: https://adminmrobo.github.io/dv-week3/en/week3_index.html
 
@@ -131,7 +131,7 @@ Attribution example: Sangsun Ahn, "Data Visualization with Generative AI · Week
 <a id="chinese"></a>
 ## 与生成式AI一起学数据可视化 — 第3周
 
-由四位角色（博士、助手、果蝇研究员、money-robo）的对话展开的互动式讲义页面。本仓库收录第3周全部内容：生成式AI数据预处理, 五种脏数据, 数据清洗实操, Matplotlib与Seaborn, 进阶图表实操, HTML看板与总结。
+由四位角色（博士、助手、果蝇研究员、算盘宝）的对话展开的互动式讲义页面。本仓库收录第3周全部内容：生成式AI数据预处理, 五种脏数据, 数据清洗实操, Matplotlib与Seaborn, 进阶图表实操, HTML看板与总结。
 
 在线阅读: https://adminmrobo.github.io/dv-week3/zh/week3_index.html
 
@@ -195,7 +195,7 @@ Attribution example: Sangsun Ahn, "Data Visualization with Generative AI · Week
 <a id="japanese"></a>
 ## 生成AIと学ぶデータ可視化 — 第3週
 
-博士・アシスタント・ショウジョウバエ研究員・money-roboの4人のキャラクターの対話で進むインタラクティブな講義ページです。このリポジトリは第3週全体（生成AIデータ前処理, 5種類の汚いデータ, データクリーニング実習, MatplotlibとSeaborn, 発展グラフ実習, HTMLダッシュボードとまとめ）を収めています。
+博士・アシスタント・ショウジョウバエ研究員・アバボットの4人のキャラクターの対話で進むインタラクティブな講義ページです。このリポジトリは第3週全体（生成AIデータ前処理, 5種類の汚いデータ, データクリーニング実習, MatplotlibとSeaborn, 発展グラフ実習, HTMLダッシュボードとまとめ）を収めています。
 
 オンラインで読む: https://adminmrobo.github.io/dv-week3/ja/week3_index.html
 
@@ -259,7 +259,7 @@ Attribution example: Sangsun Ahn, "Data Visualization with Generative AI · Week
 <a id="uzbek"></a>
 ## Generativ AI bilan maʼlumot vizualizatsiyasi — 3-hafta
 
-Professor, Yordamchi, Drozofila tadqiqotchisi, money-robo — toʻrt qahramon suhbati orqali olib boriladigan interaktiv maʼruza sahifalari. Bu omborda 3-hafta toʻliq bor: Generativ AI bilan ma'lumotlarni tozalash, Beshta iflos ma'lumot turi, Ma'lumot tozalash amaliyoti, Matplotlib va Seaborn, Murakkab diagrammalar, HTML dashboard va xulosa.
+Professor, Yordamchi, Drozofila tadqiqotchisi, AbaBot — toʻrt qahramon suhbati orqali olib boriladigan interaktiv maʼruza sahifalari. Bu omborda 3-hafta toʻliq bor: Generativ AI bilan ma'lumotlarni tozalash, Beshta iflos ma'lumot turi, Ma'lumot tozalash amaliyoti, Matplotlib va Seaborn, Murakkab diagrammalar, HTML dashboard va xulosa.
 
 Onlayn oʻqish: https://adminmrobo.github.io/dv-week3/uz/week3_index.html
 
@@ -323,7 +323,7 @@ Manba koʻrsatish namunasi: Sangsun Ahn, “Generativ AI bilan maʼlumot vizuali
 <a id="russian"></a>
 ## Визуализация данных с генеративным ИИ — Неделя 3
 
-Интерактивные страницы лекций, где материал подают четыре персонажа (Профессор, Ассистент, Исследователь-дрозофила, money-robo) в форме диалога. В этом репозитории вся неделя 3: Предобработка данных с генеративным ИИ, Пять видов «грязных» данных, Практика очистки данных, Matplotlib и Seaborn, Практика продвинутых графиков, HTML-дашборд и итоги.
+Интерактивные страницы лекций, где материал подают четыре персонажа (Профессор, Ассистент, Исследователь-дрозофила, АбаБот) в форме диалога. В этом репозитории вся неделя 3: Предобработка данных с генеративным ИИ, Пять видов «грязных» данных, Практика очистки данных, Matplotlib и Seaborn, Практика продвинутых графиков, HTML-дашборд и итоги.
 
 Читать онлайн: https://adminmrobo.github.io/dv-week3/ru/week3_index.html
 
